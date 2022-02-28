@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pearle in a dounghill. Or Lieu. Col. John Lilburne in New-gate: committed illegally by the House of Lords, first for refusing (according to his liberty) to answer interrogatories, but protesting against them as not being competent judges, and appealing to the House of Commons. Next, committed close prisoner for his just refusing to kneel at the House of Lords barre.</title>
+            <author>Overton, Richard, fl. 1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90245</idno>
+            <idno type="STC">Wing O632A</idno>
+            <idno type="STC">Thomason E342_5</idno>
+            <idno type="STC">ESTC R200929</idno>
+            <idno type="EEBO-CITATION">99861542</idno>
+            <idno type="PROQUEST">99861542</idno>
+            <idno type="VID">159765</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90245)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159765)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E342[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pearle in a dounghill. Or Lieu. Col. John Lilburne in New-gate: committed illegally by the House of Lords, first for refusing (according to his liberty) to answer interrogatories, but protesting against them as not being competent judges, and appealing to the House of Commons. Next, committed close prisoner for his just refusing to kneel at the House of Lords barre.</title>
+                  <author>Overton, Richard, fl. 1646.</author>
+                  <author>Walwyn, William, 1600-1681,</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Richard Overton by Wing. Also attributed to William Walwyn; this attribution rejected by McMichael and Taft, The writings of William Walwyn, p.529.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 30th London 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Imprisonment --  Early works to 1800.</term>
+               <term>Prisoners --  Legal status, laws, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:159765:1"/>
+            <pb facs="tcp:159765:1" rendition="simple:additions"/>
+            <head>
+               <hi>A PEARLE IN A DOVNGHILL. OR Lieu. Col.</hi> JOHN LILB<g ref="char:V">Ʋ</g>RNE <hi>in New-gate:</hi> Committed illegally by the <hi>Houſe of Lords,</hi> firſt for refuſing (accor<g ref="char:EOLhyphen"/>ding to his Liberty) to anſwer Interrogatories, but proteſting againſt them as not being competent Judges, and appea<g ref="char:EOLhyphen"/>ling to the Houſe of Commons. Next, committed cloſe priſoner for his juſt refuſing to kneel at the <hi>Houſe of Lords Barre</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough moſt of States and States men be of late turned upſide down like a wheele, yet this worthy valiant and publique ſpirited Gen<g ref="char:EOLhyphen"/>tleman (unto whom his Nation is as much bound to, at leaſt as to any one, all things conſidered) is the very ſame man (both in princi<g ref="char:EOLhyphen"/>ples and practiſe) whom the Biſhops ſo long impriſoned in the Eleet by a moſt cruell and barbarous ſentence, which they procured in the <hi>Star-chamber</hi> againſt him, and ſo <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as whipt, gag'd and pilloried, yea and in his cloſe impriſonment almoſt famiſhed and murthered,</p>
+            <p>And all becauſe he would not ſubmit to be examined againſt himſelfe, betray his friends, accuſe his brethen, nor ſell the lawfull rights and juſt liberties of England, for a meſſe or morſell of baſe preferment, whoſe fidelity, conſtancy and integrity the Parliament juſtified, and condemned that ſentence as illegall, bloody, and tyranicall, delivered him out of priſon, adjudged him worthy of reparation, aboliſhed <hi>Epiſco<g ref="char:EOLhyphen"/>pacy,</hi> the <hi>Star-chamber, High Commiſſion, Councell-table,</hi> and many ſuch arbitrary proceedings,</p>
+            <p>All which being duely and ſeriouſly conſidered, may it not ſeeme very ſtrange, that this ſo famous a man ſtill holding forth the ſame tenets and practiſe now in time of Parliament and <hi>Reformation,</hi> ſhould be now againe in <hi>Newgate</hi> as he was once before, by an Order from the Houſe of Commons, both in leſſe then a twelve moneth? Is it not becauſe there is a <hi>Popiſh</hi> and <hi>Epiſcopall party</hi> under other pretences as buſie working in the Kingdome now as ever? And as he was a ſpeciall inſtrument of the Biſhops overthrow, ſo thoſe their agents are the prime cauſers and workers
+<pb n="2" facs="tcp:159765:2"/>both of his ruine, and all that will take his part, if poſibly they could once get that <hi>Decree</hi> ſealed and un altered, <hi>ſo that their ſhould not be Separate or Sectary any more mentioned.</hi>
+            </p>
+            <p>And though his malicious adverſaries will not be warned of their <hi>Downfall,</hi> and are as mad againſt him, becauſe he will not bow before them, as ever <hi>Hamon was a<g ref="char:EOLhyphen"/>gainſt Mordecay;</hi> yea and more ſhameleſſe and bloody, then ever his former adverſaries in ſending him to <hi>Newgate, the baſeſt of priſons,</hi> and ſhewing plainly they thirſt much more after his pretious life, then ever <hi>Kain did after Abels,</hi> his apparently proceeding of a preſent diſcontent, and theirs of a long forged malicious intent and therefore if God permit theſe wicked men thus to prevaile over the Godly, it is to crowne the ſufferings of the one with glory, and to reward the perſecutions of the other with miſery.</p>
+            <p>But to take a view of his actions, wee find by ſuch credible proofe, that his very adverſaries ſhall not be able to contradict (yea and themſelves did never the like) paſſing by both what he did, and ſuffered under the <hi>Epiſcopall</hi> tyranny, becauſe large volumnes thereof are extant, and beginning, ſince his deliverance out of the <hi>Fleet</hi> priſon at the beginning of the Parliament:</p>
+            <p>In the fi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt place, hath he been ingratefull to his <hi>Deliverers,</hi> or perfidious to his Country? No his ingagements was with the firſt in this preſent warre: to defend his Country, and for f<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>king a comfortable and profitable way of living; his actions at <hi>Weſtminſter-ball, Keinton-field,</hi> and <hi>Brainford,</hi> his cariage at <hi>Oxford</hi> in <hi>Iron Chaines,</hi> againſt ſtrong temtations, and upon tryall for his life their, will witneſſe his fidelity, magnanimity, and undaunted reſolution to the Parliament and Common wealth, and that in ſuch meaſure that not many, if any of this age can ſhew the like, teſtimony.</p>
+            <p>And for ſuch as would recapitulate his actions &amp; ſufferings ſince, let them trace him in his ſervice to the Sate, under the Earle of <hi>Mancheſter,</hi> and defending the publique freedomes ſince, &amp; they will find that with the loſſe both of his blood, eſtate &amp; many hazards of his life, he hath performed <hi>Noble ſervices,</hi> as the taking of <hi>Tickle</hi> Caſts, Sir <hi>John Wortleys bouſe,</hi> and the like, in all which, malice it ſelfe cannot accuſe him, either of <hi>Cowardice</hi> or <hi>Covetouſneſſe.</hi>
+            </p>
+            <p>No nor yet of careleſneſſe, not deeming it ſufficie<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> to be faithfull himſelfe, but al<g ref="char:EOLhyphen"/>waies held a watchfull eye over the actions of others, and as bold in diſcovery of the <hi>Fraud, Treachery, Cowardice, Cruelties,</hi> plundring, and <hi>Covetouſneſſe,</hi> of falſe hear<g ref="char:EOLhyphen"/>ted friends, as valiant in fight againſt the enemies:</p>
+            <p>And now if you will begin to think why a man ſo faithfull in all his waies ſhould be ſo lyable to trouble as he hath been <hi>[for be hath been divers times in Purſevants bands and ſo committed by Committees]</hi> if you ſhall conſider how this <hi>Pearle</hi> comes to be caſt upon this <hi>Doung bill,</hi> you will find, the faithfulneſſe of his heart towards God and all good People, and the freeneſſe of his tongue againſt all kinde of injuſtice or unworthineſſe, <hi>in whom ſoever, is the only cauſe and no other.</hi>
+            </p>
+            <p>And if you ſeriouſly weigh things, you will confeſſe it would grieve any good mans heart, that <hi>Treachery, Coward<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce, Cruelty, plundring &amp; Covetouſneſſe</hi> have bin too too ſlenderly puniſhed, &amp; faithfullneſſe ſo many waies diſcouraged, and that it is a very ſad thing in a time ſo zealouſly pretending to reformation: That any quiet people ſhould be puniſhed &amp; reproached, for worſhiping and ſerving of God according to their con<g ref="char:EOLhyphen"/>ſcience, and <hi>[that trouble houſe] Conſormity as much Cried up as in the Biſhops times.</hi>
+            </p>
+            <pb n="3" facs="tcp:159765:2"/>
+            <p> That the Preſſe ſhould be ſtopt in time of Parliament, as barring all free informati<g ref="char:EOLhyphen"/>ons, &amp; admitting only what <hi>appointed</hi> Lycencers ſhall allow; doth it not even breake the hearts of all knowing good People, to ſee the dores kept ſhut in <hi>Committees,</hi> and men examined againſt themſelves, and for refuſing to accuſe themſelves, ſent to Priſon; and that <hi>free Commoners,</hi> who by the Lawes of the Land, are not to be <hi>adjudged of life, limb, liberty or eſtate,</hi> but by <hi>Commoners:</hi> ſhould at the pleaſure of the Lords, be lyable to their ſummons, and <hi>attachment</hi> by <hi>Purſevants,</hi> to their Oath <hi>ex officio,</hi> to their exami<g ref="char:EOLhyphen"/>nation in <hi>criminall cauſes</hi> to <hi>ſelfe-accuſeing,</hi> and to impriſonment <hi>during their pleaſures,</hi> the <hi>choſen Commons of England,</hi> the SUPREAME POWER, ſtanding by like a <hi>Cypher,</hi> as unconcerned, <hi>mcer loukers on;</hi> this is that which puts wiſe men paſt all pati<g ref="char:EOLhyphen"/>ence, asking, for what it is that this Nation hath ingaged in ſuch, in ſo deadly a war? For what it is ſo much precious blood hath been ſpilt, ſo many Families waſted, ſo much treaſure conſumed, ſo many Widowes and father leſſe children made miſerable? Is all this <hi>to take down the High Commiſſion, Starchamber, and Councell-Board:</hi> and to ſet up <hi>the Lords</hi> with the like power, <hi>to oppreſſe the Commons?</hi> It had been well ſay they, <hi>this had been declared,</hi> when our <hi>Money, Plate, Horſe, and voluntary Contributions,</hi> were firſt deſired; But then other things were mentioned, though now neglected.</p>
+            <p>We had (ſay they) as many <hi>Lords</hi> before the Parliament as ſince, and it was often boaſted they ſhould remove our grievances, as well as a Parliament, but it was done by addition, and increaſe of more, not by <hi>Subſtraction; God forbid a Parliament ſhould doe ſo</hi> But why then (ſay they) are we now ſubjected to the <hi>Lords?</hi> Is it not ſufficient that they are Lords over their <hi>Tennants,</hi> but they muſt be Lords over the People; that every one muſt be at their ſummons, at their command, at their impriſonment, <hi>yea to Newgate;</hi> why not <hi>whipping, gagging, banging?</hi> Oh, <hi>they are but green in their power,</hi> and do not know what the People will beare, nor what the Peoples friend <hi>(that ſhould be)</hi> the HOUSE OF COMMONS <hi>will ſuffer;</hi> hereafter may be time enough, they are yet the Peoples moſt gracious Lords, intending to the moſt knowing, faithfull and religious, <hi>no worſe then Newgate for the preſent.</hi>
+            </p>
+            <p>And why preſume ye thus Oh ye Lords? Set forth your merit before the People, and ſay, <hi>for this good it is, that we Will raign over yee.</hi> Remember your ſelves, or ſhall wee remember yee? Which of ye before this Parliament, minded my thing ſo much as your pleaſures? <hi>Playes, Maſques, Feaſtings, Huntings, Gamings, Dawncings, with the appurtenances.</hi> If you owed any man money, or abuſed any man, <hi>what law was to be find againſt you?</hi> What <hi>Pattents</hi> and <hi>Project;</hi> did you ſuppreſſe, or ſo much as <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (nay had not a hand in?) What fearefull enemies you were to <hi>Ship money, <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to the</hi> proceedings of the <hi>High Commiſſion; Star-chamber,</hi> and <hi>Councell-board, <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> goodnes was unexpreſſible, and undiſcernable, before this <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>But though you cannot excuſe all, you will ſay, you that are the good <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> then over topt with the evill, will you then be tryed by what good you have done ſince this Parliament, and ſince the expulſion of the Popiſh Lords and Biſhops; where will you begin? What thinke you of the <hi>ſtay</hi> at <hi>Worceſter,</hi> till the Enemy was provided at <hi>Shrewſbury, a ſhrewd begining for poor England?</hi> Or what thinke you of the Earle of <hi>Bedfords</hi> buſines at <hi>Sherbarn Caſtle,</hi> or of the enemies eſcape at <hi>Brainford,</hi> or at <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> or at <hi>Dennington,</hi> and to cloſe all with that memorable but ſhamefull defeat in the <hi>Weſt;</hi> It muſt needs be remembred how the warre thrived, whileſt any Lord was im<g ref="char:EOLhyphen"/>ployed: and how powerfull the enemy is grown, ſince the <hi>Now Medill,</hi> wherein there is not one <hi>Lord.</hi>
+            </p>
+            <pb n="4" facs="tcp:159765:3"/>
+            <p> It was wont to be ſaid when a thing was ſpoil'd, <hi>that the Biſhops Foot had been in it,</hi> and if the LORDS MEND NOT, it will be ſaid ſo of them, and juſtly too.</p>
+            <p>For what other have they been, but a meer Clog to the HOUSE OF COM<g ref="char:EOLhyphen"/>MONS in all their proceedings? How many neceſſary things have they obſtructed? How many evill things promoted? VVhat devices have they had of <hi>prudentials</hi> and <hi>ex<g ref="char:EOLhyphen"/>pedients,</hi> to delay and pervert what is good: and ſubtill policies to introduce things evill.</p>
+            <p>It is eaſie to diſcerne who are their Creatures in the Houſe of <hi>Commons,</hi> and how they were made theirs, conſtantly manifeſting themſelves, by their evill and perniti<g ref="char:EOLhyphen"/>ous partakings againſt the <hi>Freedome of the People,</hi> by whoſe united endeavours, <hi>Mone<g ref="char:EOLhyphen"/>polies in Trades of Merchandize, Oppreſſions in Committees, Corruptions in Courts, of luſ<g ref="char:EOLhyphen"/>tice, groſſe abuſes in our Lawes and Lawyers are maintained, and the</hi> Reformation <hi>inten<g ref="char:EOLhyphen"/>ded in all things, performed by balves, nay, quite perverted,</hi> and a meer ſhadow given for a ſubſtance, to the aſtoniſhment of all knowing <hi>free born Engliſhmen,</hi> and to their per<g ref="char:EOLhyphen"/>petuall vexation and danger; Becauſe <hi>to know,</hi> or <hi>find fault,</hi> or <hi>diſcover</hi> theſe things, to <hi>preſerve juſt freedome,</hi> and to withſtand their <hi>exorbitances:</hi> is the moſt hatefull thing to theſe Lords, of any thing in the world, <hi>Newgate (in their eſteem) is too good for all ſuch.</hi>
+            </p>
+            <p>And this is the only crime for which this worthy man is made the ſubject of their malice, a man that hath diſcovered more of the <hi>liberties of England,</hi> then any one man alive; a man that hath reſiſted all kinds of <hi>Oppreſſions,</hi> with the perpetuall hazard of his life, liberty, and eſtate.</p>
+            <p>And muſt no place but <hi>Newgate</hi> be his habitation? Is this the reparation for his da<g ref="char:EOLhyphen"/>mages, and recompence for his faithfull ſervice? Muſt he be here reſerved a ſucrifice to appeaſe the diſpleaſure of the late reconciled enemies of the Common-wealth</p>
+            <p>Thou do'ſt well O <hi>England,</hi> to give up this thy firſt-born <hi>LILBVRNE,</hi> the SON of thy STRENGTH, and high RESOLUTION, for FREEDOME; If thou intendeſt to become a <hi>Bond ſlave</hi> again, to either <hi>King, Lords,</hi> or any others: for he will never ſubmit either body or mind to any kind of ſlavery.</p>
+            <p>But certainly thoſe <hi>Worthyes</hi> in the Houſe of <hi>Commons,</hi> that conſider what the Peo<g ref="char:EOLhyphen"/>ple have done and ſuffered for their libertyes will never ſuffee ſo foule a deed, it can<g ref="char:EOLhyphen"/>not be but they intend the utter moſt of juſt freedome to the People, and love thoſe beſt, that moſt know and affect true liberty, and are greateſt oppoſers of exorbitant power in whomſoever: and conſequently cannot but inſtantly deliver this juſt man, and in him all <hi>Engliſh men,</hi> from the like oppreſſion and h<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eforth <hi>reduce the Lords</hi> to a condicion <hi>ſuteable to the freedome of the <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> with the freedome of Parliaments.</hi>
+            </p>
+            <p>The People are become a <hi>Knowing</hi> and <hi>Judicious People, <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> hath made them <hi>wiſe,</hi> now <hi>Opreſſion</hi> maketh wiſe men mad, <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all one to them, who oppreſſeth them, <hi>oppreſſion they cannot <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> and if <hi>Parliaments</hi> do in deed and in truth really deliver them, they will love Varliements, as performing the truſt repoſed in them, and the end for which Parliaments were ordained, <hi>otherwiſe they will ebominate them,</hi> becauſe, for People <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>or intime of Par<g ref="char:EOLhyphen"/>liament,</hi> is like as for a man to be betrayed o<gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> father; <hi>which God of his mercy preſerve both People and Parliament <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that for ever.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>London</hi> 
+                  <date>
+                     <hi>June,</hi> 1646.</date>
+               </dateline>
+            </closer>
+            <trailer>FINI<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
